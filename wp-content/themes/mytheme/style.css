@@ -5,5 +5,11 @@ Author: Maryna Synko
 */
 
 body{
-    background: black;
+    background: #f4d3d8;
+}
+
+header{
+    background: white;
+    width: 100%; 
+    height: 100px;
 }
